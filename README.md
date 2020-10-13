@@ -4,9 +4,14 @@
 <p align="center">☕ Code and coffee</p>
 
 <p align="center">
-	<a href="#">
-	<img src="https://img.shields.io/static/v1?label=made%20by&message=Ronnasayd&color=7159c1&style=flat-square&logo=postwoman&logoColor=white">
-	</a>
+	  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Ronnasayd/semana-omnistack-9">
+  <img alt="GitHub code size" src="https://img.shields.io/github/languages/code-size/Ronnasayd/semana-omnistack-9">
+  <img alt="Issues" src="https://img.shields.io/github/issues/Ronnasayd/semana-omnistack-9">
+  <img alt="Forks" src="https://img.shields.io/github/forks/Ronnasayd/semana-omnistack-9">
+  <img alt="Stars" src="https://img.shields.io/github/stars/Ronnasayd/semana-omnistack-9">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Ronnasayd/semana-omnistack-9">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Ronnasayd/semana-omnistack-9">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Ronnasayd/semana-omnistack-9">
 </p>
 
 <p align="center">  
@@ -21,6 +26,10 @@
 <p align="center">
 <img src=".github/aircnc.png">
 </p>
+
+## 💻 Projeto
+
+O Aircnc é um projeto que visa conectar empresas que querem abrir spots e desenvolvedores que procuram um lugar para trocar ideias com devs, conhecer a empresa e trabalhar lá por um período.
 
 ## 📝 Pré-requisitos
 
@@ -73,10 +82,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [React](https://pt-br.reactjs.org/)
 - [React Native](https://reactnative.dev/)
 
-## 💻 Projeto
-
-O Aircnc é um projeto que visa conectar empresas que querem abrir spots e desenvolvedores que procuram um lugar para trocar ideias com devs, conhecer a empresa e trabalhar lá por um período.
-
 ## 🤔 Como contribuir
 
 - Faça um fork desse repositório;
@@ -93,8 +98,6 @@ Depois que o merge da sua pull request for feito, você pode deletar a sua branc
 </a>
 
 ## 🎨 Autor
-
----
 
 <a href="https://github.com/Ronnasayd">
 <img style="border-radius: 50%;"src="https://avatars3.githubusercontent.com/u/5097702?s=460&u=bd60ecc1912c698b55aef2118a1cdebe0ae3844b&v=4" width="100px">
