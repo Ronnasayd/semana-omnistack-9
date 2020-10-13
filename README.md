@@ -15,12 +15,13 @@
 </p>
 
 <p align="center">  
-	<a href="#objetivo">Objetivo</a> • 
-	<a href="#roadmap">Roadmap</a> • 
-	<a href="#tecnologias">Tecnologias</a> • 
-	<a href="#contribuicao">Contribuição</a> • 
-	<a href="#licenc-a">Licença</a> • 
-	<a href="#autor">Autor</a>
+	<a href="#-projeto">Projeto</a> • 
+	<a href="#-pré-requisitos">Pré-requisitos</a> • 
+	<a href="#-rodando-as-aplicações">Rodando as aplicações</a> • 
+	<a href="#-tecnologias">Tecnologias</a> • 
+	<a href="#-como-contribuir">Como contribuir</a> •
+  <a href="#%EF%B8%8F-licença">Licença</a> • 
+	<a href="#-autor">Autor</a>
 </p>
 
 <p align="center">
