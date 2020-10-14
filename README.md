@@ -104,7 +104,7 @@ Depois que o merge da sua pull request for feito, você pode deletar a sua branc
 <img style="border-radius: 50%;"src="https://avatars3.githubusercontent.com/u/5097702?s=460&u=bd60ecc1912c698b55aef2118a1cdebe0ae3844b&v=4" width="100">
 </a>
 
-Feito com 💜 por [Ronnasayd Machado](ttps://github.com/Ronnasayd) e [Rocketseat](https://rocketseat.com.br/) 👋 Entre em contato!
+Feito com 💜 por [Ronnasayd Machado](https://github.com/Ronnasayd) e [Rocketseat](https://rocketseat.com.br/) 👋 Entre em contato!
 
 <p>
 	<a href="https://www.facebook.com/ronnasaydmachado/">
