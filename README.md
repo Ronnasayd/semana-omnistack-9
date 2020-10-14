@@ -98,18 +98,15 @@ Depois que o merge da sua pull request for feito, você pode deletar a sua branc
 <img src="https://img.shields.io/badge/license-mit-green?style=flat-square">
 </a>
 
-## 🎨 Autor
+## 🎨 Author
 
 <a href="https://github.com/Ronnasayd">
-<img style="border-radius: 50%;"src="https://avatars3.githubusercontent.com/u/5097702?s=460&u=bd60ecc1912c698b55aef2118a1cdebe0ae3844b&v=4" width="100px">
-<br />
- <sub><b>Ronnasayd Machado</b></sub></a> <a href="" title="Autor">🚀</a>
+<img style="border-radius: 50%;"src="https://avatars3.githubusercontent.com/u/5097702?s=460&u=bd60ecc1912c698b55aef2118a1cdebe0ae3844b&v=4" width="100">
 </a>
 
-Feito com 💜 por Ronnasayd Machado e [Rocketseat](https://rocketseat.com.br/) 👋 Entre em contato!
+Feito com 💜 por [Ronnasayd Machado](ttps://github.com/Ronnasayd) e [Rocketseat](https://rocketseat.com.br/) 👋 Entre em contato!
 
 <p>
-	<img src="https://img.shields.io/static/v1?label=made%20by&message=Ronnasayd&color=7159c1&style=flat-square&logo=postwoman&logoColor=white">
 	<a href="https://www.facebook.com/ronnasaydmachado/">
 	<img src="https://img.shields.io/static/v1?label=&message=Facebook&color=1673ea&style=flat-square&logo=facebook&logoColor=white">
 	</a>
@@ -119,4 +116,7 @@ Feito com 💜 por Ronnasayd Machado e [Rocketseat](https://rocketseat.com.br/) 
   <a href="https://www.linkedin.com/in/ronnasayd/">
 	<img src="https://img.shields.io/static/v1?label=&message=Linkedin&color=2867B2&style=flat-square&logo=linkedin&logoColor=white">
 	</a>
+  <a href="mailto:ronnasayd@hotmail.com">
+    <img src="https://img.shields.io/static/v1?label=&message=E-mail&color=0060aa&style=flat-square&logo=microsoft%20Outlook&logoColor=white">
+  </a>
 </p>
